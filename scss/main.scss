@@ -4,6 +4,7 @@
 @import "mixins";
 
 // Elements
+@import 'elements/grid';
 @import 'elements/global';
 @import 'elements/typography';
 @import 'elements/forms';
@@ -17,7 +18,7 @@
 
 // Media Queries
 @import 'media-queries/mobile';
-@import 'media-queries/tablet';
+@import 'media-queries/tablets';
 
 // Animations
 @import "keyframes";
